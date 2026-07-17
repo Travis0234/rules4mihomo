@@ -1,6 +1,21 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # MyList
+DOMAIN-SUFFIX,kfzzxcx.com
+DOMAIN-SUFFIX,durable0762.com
+DOMAIN-SUFFIX,delirium9599.com
+DOMAIN-SUFFIX,wrecking7857.com
+DOMAIN-SUFFIX,carrousel6917.com
+DOMAIN-SUFFIX,simmering3378.com
+DOMAIN-SUFFIX,blasphemy4985.com
+DOMAIN-SUFFIX,destitute2725.com
+DOMAIN-SUFFIX,prolonged3729.com
+
+DOMAIN-SUFFIX,cdn.metaglide.org
+DOMAIN-SUFFIX,api-huacloud.dev
+DOMAIN-SUFFIX,api.wd-red.com
+DOMAIN-SUFFIX,api.wd-purple.com
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,whtjdasha.com
 DOMAIN-SUFFIX,chybinc.com
