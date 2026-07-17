@@ -15,6 +15,9 @@ DOMAIN-SUFFIX,cdn.metaglide.org
 DOMAIN-SUFFIX,api-huacloud.dev
 DOMAIN-SUFFIX,api.wd-red.com
 DOMAIN-SUFFIX,api.wd-purple.com
+DOMAIN-SUFFIX,xmancdn.com
+DOMAIN-SUFFIX,wd-red.com
+DOMAIN-SUFFIX,wd-purple.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,whtjdasha.com
