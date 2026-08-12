@@ -1,6 +1,11 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
-# MyList
+# 自定义补充直连域名
+DOMAIN-SUFFIX,region2.v2.argotunnel.com
+DOMAIN-SUFFIX,region1.v2.argotunnel.com
+DOMAIN-SUFFIX,argotunnel.com
+
+# MyList (Private DoH of Nexitally)
 DOMAIN-SUFFIX,kfzzxcx.com
 DOMAIN-SUFFIX,durable0762.com
 DOMAIN-SUFFIX,delirium9599.com
@@ -11,6 +16,7 @@ DOMAIN-SUFFIX,blasphemy4985.com
 DOMAIN-SUFFIX,destitute2725.com
 DOMAIN-SUFFIX,prolonged3729.com
 
+# Subscriptions links domain
 DOMAIN-SUFFIX,cdn.metaglide.org
 DOMAIN-SUFFIX,api-huacloud.dev
 DOMAIN-SUFFIX,api.wd-red.com
@@ -36,11 +42,8 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 # DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,aerianas.top
-DOMAIN-SUFFIX,sssyun.xyz
 DOMAIN-SUFFIX,qeayr.cn
-DOMAIN-SUFFIX,saojc.xyz   
-DOMAIN-SUFFIX,dler.cloud
-DOMAIN-SUFFIX,0tk8a3a1q4t94dler.com 
+DOMAIN-SUFFIX,saojc.xyz
 DOMAIN-SUFFIX,hkmlqxg.xyz
 DOMAIN-SUFFIX,qingtiantv888.xyz
 DOMAIN-SUFFIX,ynhtbank.com
@@ -63,10 +66,6 @@ DOMAIN-SUFFIX,vp2.us
 DOMAIN-SUFFIX,km688.ink
 
 DOMAIN-SUFFIX,futo-on.com
-
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
