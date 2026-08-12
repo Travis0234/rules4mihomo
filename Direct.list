@@ -1,9 +1,9 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # 自定义补充直连域名
-DOMAIN-SUFFIX,region2.v2.argotunnel.com
-DOMAIN-SUFFIX,region1.v2.argotunnel.com
-DOMAIN-SUFFIX,argotunnel.com
+# DOMAIN-SUFFIX,region2.v2.argotunnel.com
+# DOMAIN-SUFFIX,region1.v2.argotunnel.com
+# DOMAIN-SUFFIX,argotunnel.com
 
 # MyList (Private DoH of Nexitally)
 DOMAIN-SUFFIX,kfzzxcx.com
