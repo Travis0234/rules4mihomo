@@ -137,7 +137,7 @@ proxy-groups:
   - {name: HK, type: url-test, include-all: true, tolerance: 10, interval: 300, filter: "(?=.*(香港|HK|HongKong|Hong|🇭🇰))^((?!(台|日|韩|新|美)).)*$"}
   - {name: JP, type: url-test, include-all: true, tolerance: 15, interval: 300, filter: "(?=.*(日|JP|(?i)Japan|🇯🇵))^((?!(尼日|港|台|韩|新|美|)).)*$"}
   - {name: SG, type: url-test, include-all: true, tolerance: 15, interval: 300, filter: "(?=.*(🇸🇬|新加坡|坡|狮城|SG|Singapore))^((?!(港|台|韩|日|美|)).)*$"}
-  - {name: TW, type: url-test, include-all: true, tolerance: 10, interval: 300, filter: "(?=.*(🇹🇼|台|TW|(?i)Taiwan|中华民国))^((?!(港|日|韩|新|美)).)*$"}
+  - {name: TW, type: url-test, include-all: true, tolerance: 10, interval: 300, filter: "(?=.*(🇹🇼|台|TW|(?i)Taiwan|台湾))^((?!(港|日|韩|新|美)).)*$"}
   - {name: US, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(🇺🇸|美|US|(?i)States|America))^((?!(港|台|日|韩|新|)).)*$"}
 
 rules:
